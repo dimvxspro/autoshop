@@ -1,0 +1,147 @@
+
+[
+  {
+    "id": 1,
+    "title": "Toyota Camry New",
+    "description": "3.5 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$40,000",
+    "miles": "20 Miles",
+    "type": "Petrol",
+    "transmission": "Automatic",
+    "image": "/image/car-list/1.png",
+    "badge": "Great Price",
+    "bg-color": "green"
+  },
+  {
+    "id": 2,
+    "title": "T-Cross – 2023",
+    "description": "4.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$15,000",
+    "miles": "15 Miles",
+    "type": "Petrol",
+    "transmission": "CVT",
+    "image": "/image/car-list/2.png",
+    "badge": false,
+    "bg-color": false
+  },
+  {
+    "id": 3,
+    "title": "Ford Transit – 2021",
+    "description": "4.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$22,000",
+    "miles": "250 Miles",
+    "type": "Diesel",
+    "transmission": "Manual",
+    "image": "/image/car-list/3.png",
+    "badge": "Great Price",
+    "bg-color": "green"
+  },
+  {
+    "id": 4,
+    "title": "New GLC – 2023",
+    "description": "4.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$95,000",
+    "miles": "50 Miles",
+    "type": "Petrol",
+    "transmission": "Automatic",
+    "image": "/image/car-list/4.png",
+    "badge": "Low Mileage",
+    "bg-color": "blue"
+  },
+  {
+    "id": 5,
+    "title": "Audi A6 3.5 – New",
+    "description": "3.5 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$58,000",
+    "miles": "100 Miles",
+    "type": "Petrol",
+    "transmission": "Automatic",
+    "image": "/image/car-list/5.png",
+    "badge": false,
+    "bg-color": false
+  },
+  {
+    "id": 6,
+    "title": "Audi A4, 4.5 New",
+    "description": "3.5 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$250,000",
+    "miles": "60 Miles",
+    "type": "Petrol",
+    "transmission": "Automatic",
+    "image": "/image/car-list/6.png",
+    "badge": false,
+    "bg-color": false
+  },
+  {
+    "id": 7,
+    "title": "Ranger Black – 2021",
+    "description": "2.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$165,000",
+    "miles": "60 Miles",
+    "type": "Petrol",
+    "transmission": "Manual",
+    "image": "/image/car-list/7.png",
+    "badge": "Sale",
+    "bg-color": "blue"
+  },
+  {
+    "id": 8,
+    "title": "Mercedes-Benz, C Class",
+    "description": "2.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$35,000",
+    "miles": "100 Miles",
+    "type": "Petrol",
+    "transmission": "Automatic",
+    "image": "/image/car-list/8.png",
+    "badge": "Great Price",
+    "bg-color": "green"
+  },
+  {
+    "id": 9,
+    "title": "Ranger White – 2022",
+    "description": "2.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$25,000",
+    "miles": "300 Miles",
+    "type": "Diesel",
+    "transmission": "Manual",
+    "image": "/image/car-list/9.png",
+    "badge": "Low Mileage",
+    "bg-color": "blue"
+  },
+  {
+    "id": 10,
+    "title": "T-Cross – 2023",
+    "description": "4.0 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$15,000",
+    "miles": "15 Miles",
+    "type": "Petrol",
+    "transmission": "CVT",
+    "image": "/image/car-list/10.png",
+    "badge": false,
+    "bg-color": false
+  },
+  {
+    "id": 11,
+    "title": "Corolla Altis – 2023",
+    "description": "3.5 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$45,000",
+    "miles": "150 Miles",
+    "type": "Petrol",
+    "transmission": "CVT",
+    "image": "/image/car-list/11.png",
+    "badge": false,
+    "bg-color": false
+  },
+  {
+    "id": 12,
+    "title": "Ford Explorer 2023",
+    "description": "3.5 D5 PowerPulse Momentum 5dr AW…",
+    "price": "$35,000",
+    "miles": "10 Miles",
+    "type": "Diesel",
+    "transmission": "CVT",
+    "image": "/image/car-list/12.png",
+    "badge": "Great Price",
+    "bg-color": "green"
+  }
+]

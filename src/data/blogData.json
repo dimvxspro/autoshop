@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "2024 BMW ALPINA XB7 with exclusive details,\nextraordinary",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/1.png",
+    "badge": "Sound",
+    "bg-color": "white"
+  },
+  {
+    "id": 2,
+    "title": "BMW X6 M50i is designed to exceed your\nsportiest.",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/2.png",
+    "badge": "Accessories",
+    "bg-color": "white"
+  },
+  {
+    "id": 3,
+    "title": "BMW X5 Gold 2024 Sport Review: Light on\nSport",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/3.png",
+    "badge": "Exterior",
+    "bg-color": "white"
+  },
+  {
+    "id": 4,
+    "title": "2024 Kia Sorento Hybrid Review: Big Vehicle\nWith Small-Vehicle",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/4.png",
+    "badge": "Body Kit",
+    "bg-color": "white"
+  },
+  {
+    "id": 5,
+    "title": "2024 Audi Hybrid gives up nothing with its\noptimized",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/5.png",
+    "badge": "Fuel Systems",
+    "bg-color": "white"
+  },
+  {
+    "id": 6,
+    "title": "2024 BMW X3 M Sport Seats – available as\na standalone option",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/6.png",
+    "badge": "Exterior",
+    "bg-color": "white"
+  },
+  {
+    "id": 7,
+    "title": "2023 Carnival Standard blind-spot &\nforward collision avoidance",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/7.png",
+    "badge": "Body Kit",
+    "bg-color": "white"
+  },
+  {
+    "id": 8,
+    "title": "Golf vs Polo: A Comparison of Two\nVolkswagen Classics",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/8.png",
+    "badge": "Sound",
+    "bg-color": "white"
+  },
+  {
+    "id": 9,
+    "title": "Battle of the SUVs – Kia Sportage vs\nHyundai Tucson",
+    "date": "November 22, 2023",
+    "owner": "admin",
+    "image": "/image/car-blog-list/9.png",
+    "badge": "Oil & Filters",
+    "bg-color": "white"
+  }
+]
